@@ -1,24 +1,24 @@
 ---
-title: Privacy Policy - UV Predict
+title: Privacy Policy - Sunlight
 ---
 
-# Privacy Policy for UV Predict
+# Privacy Policy for Sunlight
 
-**Effective date:** September 4, 2026  
+**Effective date:** September 5, 2026  
 **Developer:** Zihan Wang  
 **Contact:** [jxiaoai@icloud.com](mailto:jxiaoai@icloud.com)
 
-This Privacy Policy explains how UV Predict (“UV Predict,” “the App,” “we,” “us,” or “our”) accesses, processes, stores, and protects information.
+This Privacy Policy explains how Sunlight: UV Index Tracker (“Sunlight,” “the App,” “we,” “us,” or “our”) accesses, processes, stores, and protects information.
 
 ## 1. Privacy at a Glance
 
-UV Predict is designed to keep personal daylight and preference data on your device. We do not operate a backend server that receives your Apple Health data, manual outdoor sessions, skin response profile, or forecast history. The App does not require an account and does not include third-party advertising, behavioral tracking, or third-party analytics SDKs. We do not sell personal information or use health information for advertising, marketing, profiling, or data brokerage.
+Sunlight is designed to keep personal daylight and preference data on your device. We do not operate a backend server that receives your Apple Health data, manual outdoor sessions, skin response profile, or forecast history. The App does not require an account and does not include third-party advertising, behavioral tracking, or third-party analytics SDKs. We do not sell personal information or use health information for advertising, marketing, profiling, or data brokerage.
 
-UV Predict uses Apple-operated services when you request a forecast, search for a city, download the App, use widgets, or make a purchase. Apple processes information for those services under its own privacy policies and terms.
+Sunlight uses Apple-operated services when you request a forecast, search for a city, download the App, use widgets, or make a purchase. Apple processes information for those services under its own privacy policies and terms.
 
 ## 2. Location, City Search, and Weather Data
 
-UV Predict needs a forecast location to provide local UV and weather context. You may:
+Sunlight needs a forecast location to provide local UV and weather context. You may:
 
 - Allow the App to use your current location while you use it
 - Turn off Precise Location in iOS, in which case the location provided to the App may be approximate
@@ -26,13 +26,13 @@ UV Predict needs a forecast location to provide local UV and weather context. Yo
 
 Location coordinates or a selected city are sent from your device to Apple-operated MapKit and WeatherKit services as needed to search for places and obtain forecasts. We do not receive those requests on a developer-operated server. The selected city, last resolved coordinates, and cached forecast context may be stored locally on your device so the App and its widgets can work consistently.
 
-UV Predict does not use location for advertising or cross-app tracking. You may change or revoke Location access at any time in iPhone Settings and can select a different city inside the App.
+Sunlight does not use location for advertising or cross-app tracking. You may change or revoke Location access at any time in iPhone Settings and can select a different city inside the App.
 
 ## 3. Apple Health Data
 
-With your permission, UV Predict reads only the Time in Daylight category available through Apple Health. The App does not write Health data.
+With your permission, Sunlight reads only the Time in Daylight category available through Apple Health. The App does not write Health data.
 
-UV Predict may use Time in Daylight on your device to:
+Sunlight may use Time in Daylight on your device to:
 
 - Show recorded daylight progress
 - Combine Apple Health and manual outdoor intervals without double-counting overlaps
@@ -40,17 +40,17 @@ UV Predict may use Time in Daylight on your device to:
 - Provide timing and consistency insights
 - Put forecast-based planning estimates in context
 
-Apple Health data is processed on your device. It is not uploaded to our servers, sold, used for advertising, or shared with data brokers. It is not sent to Apple Weather when UV Predict compares recorded intervals with forecast context. You control HealthKit access and may change or revoke it at any time in the Health app or iPhone Settings.
+Apple Health data is processed on your device. It is not uploaded to our servers, sold, used for advertising, or shared with data brokers. It is not sent to Apple Weather when Sunlight compares recorded intervals with forecast context. You control HealthKit access and may change or revoke it at any time in the Health app or iPhone Settings.
 
 ## 4. Manual Outdoor Sessions and Optional Profile
 
-If you choose to use these features, UV Predict may store manual outdoor-session start and end times and an optional self-reported skin response profile. This information is stored locally and is used only to provide the App's planning, tracking, and personalization features.
+If you choose to use these features, Sunlight may store manual outdoor-session start and end times and an optional self-reported skin response profile. This information is stored locally and is used only to provide the App's planning, tracking, and personalization features.
 
 The profile and resulting ranges are estimates for general wellness and planning. They are not direct measurements of personal UV exposure and are not medical advice or guarantees of safe exposure.
 
 ## 5. Information Stored Locally
 
-Depending on the features you use, UV Predict may store the following information on your device:
+Depending on the features you use, Sunlight may store the following information on your device:
 
 - Manual outdoor sessions
 - Daylight goals and preferred planning windows
@@ -66,13 +66,13 @@ This information is not sent to a developer-operated server. Local data may be i
 
 ## 6. Notifications and Widgets
 
-If you grant notification permission, UV Predict schedules forecast-aware or custom reminders through iOS. The App does not use a developer-operated push-notification server. Reminder configuration is stored locally, and you can change notification access in iPhone Settings.
+If you grant notification permission, Sunlight schedules forecast-aware or custom reminders through iOS. The App does not use a developer-operated push-notification server. Reminder configuration is stored locally, and you can change notification access in iPhone Settings.
 
-UV Predict widgets read limited forecast, recorded-daylight, preference, and Pro-access snapshots from the App's local shared container. This allows the App and its WidgetKit extension to display authorized information on your device. These snapshots are not uploaded to our servers.
+Sunlight widgets read limited forecast, recorded-daylight, preference, and Pro-access snapshots from the App's local shared container. This allows the App and its WidgetKit extension to display authorized information on your device. These snapshots are not uploaded to our servers.
 
 ## 7. Purchases and Subscriptions
 
-UV Predict Pro purchases are processed by Apple through StoreKit and the App Store. Apple handles your Apple Account, payment method, billing information, renewals, cancellations, and refunds. UV Predict does not receive or store payment-card details.
+Sunlight Pro purchases are processed by Apple through StoreKit and the App Store. Apple handles your Apple Account, payment method, billing information, renewals, cancellations, and refunds. Sunlight does not receive or store payment-card details.
 
 The App receives only the verified product and entitlement information needed to determine whether Pro features should be available, such as whether a monthly subscription or lifetime purchase is active. Apple's handling of purchase information is governed by Apple's privacy policy and terms.
 
@@ -84,7 +84,7 @@ Please do not include Apple Health records, precise location information, or oth
 
 ## 9. Analytics, Advertising, and Tracking
 
-UV Predict does not currently include third-party advertising, behavioral tracking, or third-party analytics SDKs. We do not:
+Sunlight does not currently include third-party advertising, behavioral tracking, or third-party analytics SDKs. We do not:
 
 - Track you across apps or websites
 - Use HealthKit or location data for advertising or marketing
@@ -99,33 +99,33 @@ We do not share Apple Health data, manual sessions, skin response profiles, or c
 - Grant Apple Health or Location permissions
 - Search for a city or request an Apple Weather forecast
 - Download, update, or use the App and its widgets
-- Purchase, restore, or manage UV Predict Pro
+- Purchase, restore, or manage Sunlight Pro
 
 Apple processes this information under its own privacy policies and terms. Because the App's personal health and habit data remains on your device, we generally do not possess that data to disclose. We may disclose information we do possess, such as a support email, when required by applicable law or a valid legal request.
 
-This support and privacy website is hosted by GitHub Pages. When you visit the website, GitHub may process technical information such as an IP address or browser details under GitHub's own privacy policies. GitHub does not receive your in-app Apple Health data from UV Predict.
+This support and privacy website is hosted by GitHub Pages. When you visit the website, GitHub may process technical information such as an IP address or browser details under GitHub's own privacy policies. GitHub does not receive your in-app Apple Health data from Sunlight.
 
 ## 11. Data Retention and Deletion
 
 Apple Health records remain managed by Apple Health and are not retained on our servers. Manual sessions, preferences, and cached information remain on your device until you remove them through available App controls, reset the relevant settings, or delete the App.
 
-In UV Predict, open Settings, then Data and privacy, to delete local manual records. You can also remove individual manual sessions from the daylight records view. Deleting UV Predict normally removes its local app and shared widget data from the device. Apple Health records are not deleted by these actions.
+In Sunlight, open Settings, then Data and privacy, to delete local manual records. You can also remove individual manual sessions from the daylight records view. Deleting Sunlight normally removes its local app and shared widget data from the device. Apple Health records are not deleted by these actions.
 
-To revoke Health or Location access, manage UV Predict's permissions in the Health app or iPhone Settings. To request deletion of information you previously sent through customer support, contact [jxiaoai@icloud.com](mailto:jxiaoai@icloud.com).
+To revoke Health or Location access, manage Sunlight's permissions in the Health app or iPhone Settings. To request deletion of information you previously sent through customer support, contact [jxiaoai@icloud.com](mailto:jxiaoai@icloud.com).
 
 ## 12. Security
 
-UV Predict uses iOS sandboxing, app-group access controls for its widget extension, StoreKit verification, and available device data-protection features to protect locally stored information. No security method can guarantee absolute protection. You are responsible for protecting access to your iPhone, Apple Account, device passcode, and backups.
+Sunlight uses iOS sandboxing, app-group access controls for its widget extension, StoreKit verification, and available device data-protection features to protect locally stored information. No security method can guarantee absolute protection. You are responsible for protecting access to your iPhone, Apple Account, device passcode, and backups.
 
 ## 13. Children's Privacy
 
-UV Predict is not specifically directed to children under 13. We do not knowingly collect personal information from children through a developer-operated server. If you believe a child has provided personal information through a support communication, contact us so we can review and delete it when appropriate.
+Sunlight is not specifically directed to children under 13. We do not knowingly collect personal information from children through a developer-operated server. If you believe a child has provided personal information through a support communication, contact us so we can review and delete it when appropriate.
 
 ## 14. General Wellness and Safety Disclaimer
 
-UV Predict is intended for general wellness, informational, and planning purposes only. It does not provide medical advice, diagnosis, treatment, or a promise of safe sun exposure.
+Sunlight is intended for general wellness, informational, and planning purposes only. It does not provide medical advice, diagnosis, treatment, or a promise of safe sun exposure or safe tanning.
 
-UV forecasts come from Apple Weather. Time in Daylight and manual sessions represent recorded outdoor time, not guaranteed direct sunlight. Personal UV exposure context, skin-response ranges, and Vitamin D opportunity are modeled or qualitative estimates. They are not direct sensor measurements, exact burn timers, Vitamin D intake or production, sufficiency assessments, blood-status measurements, or safe exposure times. Follow authoritative local guidance and consult a qualified healthcare professional for medical concerns.
+UV forecasts come from Apple Weather. Time in Daylight and manual sessions represent recorded outdoor time, not guaranteed direct sunlight. Personal UV exposure context, skin-response ranges, and Vitamin D sunlight opportunity are modeled or qualitative estimates. They are not direct sensor measurements, exact burn timers, Vitamin D intake or production, sufficiency assessments, blood-status measurements, safe exposure times, or guarantees of risk-free tanning. Follow authoritative local guidance and consult a qualified healthcare professional for medical concerns.
 
 ## 15. Changes to This Policy
 
